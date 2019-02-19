@@ -3,7 +3,7 @@ class Main {
 	public static void main(String args[]) {
 		Koe koe = new Koe("Zwart", 2, true);
 		Koehandelaar koewinkel = new Koehandelaar();
-		koe.leeftijd = 5;
+		koe.leeftijd = 6;
 		
 		koe.eetGras = true;
 		
